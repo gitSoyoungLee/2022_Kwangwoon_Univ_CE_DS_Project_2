@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89da59b0-8325-4ad2-a42b-ecdd54e46940)# 2022_Kwangwoon_Univ_CE_DS_Project_2
+# 2022_Kwangwoon_Univ_CE_DS_Project_2
 
 > 2022년 광운대학교 데이터구조설계 2차 과제 구현 내용입니다.
 
